@@ -1,5 +1,9 @@
 # LEAVS classifier
 
+by [Ricardo Bigolin Lanfredi](https://github.com/ricbl).
+
+This repository contains code and data for the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision]() paper.
+
 To learn about all the arguments, run `python src/train.py --help`.
 
 Example to run training, validation and testing:
@@ -46,3 +50,6 @@ It was tested with
 - matplotlib                3.1.0
 - joblib                    1.1.1
 
+## Citation
+
+Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision]() paper if you employ the code from this repository or the annotation data from this repository.

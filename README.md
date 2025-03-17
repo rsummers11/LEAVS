@@ -63,4 +63,4 @@ It was tested with
 
 ## Citation
 
-Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision]() paper if you employ the code from this repository or the annoation data from this repository. Cite the [Amos: A large-scale abdominal multi-organ benchmark for versatile medical image segmentation](https://arxiv.org/abs/2206.08023) paper if you use the annotations from this repository.
+Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision]() paper if you employ the code from this repository or the annotation data from this repository. Cite the [Amos: A large-scale abdominal multi-organ benchmark for versatile medical image segmentation](https://arxiv.org/abs/2206.08023) paper if you use the annotations from this repository.
