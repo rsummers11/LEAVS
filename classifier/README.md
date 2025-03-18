@@ -2,7 +2,7 @@
 
 by [Ricardo Bigolin Lanfredi](https://github.com/ricbl).
 
-This repository contains code and data for the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision]() paper.
+This repository contains code and data for the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision](https://arxiv.org/abs/2503.13330) paper.
 
 To learn about all the arguments, run `python src/train.py --help`.
 
@@ -52,4 +52,4 @@ It was tested with
 
 ## Citation
 
-Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision]() paper if you employ the code from this repository or the annotation data from this repository.
+Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision](https://arxiv.org/abs/2503.13330) paper if you employ the code from this repository or the annotation data from this repository.
