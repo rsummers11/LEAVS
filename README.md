@@ -1,8 +1,19 @@
 # LEAVS
-
+<!---
 by [Ricardo Bigolin Lanfredi](https://github.com/ricbl).
+-->
+This repository contains code and data for the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_30) paper.
 
-This repository contains code and data for the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision](https://arxiv.org/abs/2503.13330) paper.
+**LEAVS: An LLM-Based Labeler for Abdominal CT Supervision**  
+
+[Ricardo Bigolin Lanfredi](https://github.com/ricbl)<sup>1</sup>, [Yan Zhuang](https://yanzhuang.me/)<sup>2,3</sup>, Mark Finkelstein<sup>2</sup>, Praveen Thoppey Srinivasan Balamuralikrishna<sup>1</sup>, Luke Krembs<sup>4</sup>, Brandon Khoury<sup>4</sup>, Arthi Reddy<sup>2</sup>, Pritam Mukherjee<sup>1</sup>, Neil M. Rofsky <sup>2</sup>, and Ronald M. Summers <sup>1</sup>
+
+<sup>1</sup> Department of Radiology and Imaging Sciences, Imaging Biomarkers and Computer Aided Diagnosis Laboratory, National Institutes of Health Clinical Center, 10 Center Dr, Bldg 10, Rm 1C224D, Bethesda, MD, USA  
+<sup>2</sup> Department of Diagnostic, Molecular, and Interventional Radiology, Icahn School of Medicine at Mount Sinai, New York, NY, USA   
+<sup>3</sup> Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA  
+<sup>4</sup> Department of Radiology, Walter Reed National Military Medical Center, Bethesda, MD, USA    
+
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_30)] [[Arxiv](https://arxiv.org/abs/2503.13330)] [DOI:10.1007/978-3-032-04971-1_30]  
 
 ## Using the LEAVS labeler
 
@@ -62,5 +73,28 @@ It was tested with
 - tk (for annotation tool in annotator_python_script.py)
 
 ## Citation
-
+<!---
 Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision](https://arxiv.org/abs/2503.13330) paper if you employ the code from this repository or the annotation data from this repository. Cite the [Amos: A large-scale abdominal multi-organ benchmark for versatile medical image segmentation](https://arxiv.org/abs/2206.08023) paper if you use the annotations from this repository.
+-->
+
+
+If you use the code or the annotation data from this repository, or if you find our work is useful for your research, please cite the following:
+```bib
+@article{bigolin2025leavs,
+  title={LEAVS: An LLM-based Labeler for Abdominal CT Supervision},
+  author={Bigolin Lanfredi, Ricardo and Zhuang, Yan and Finkelstein, Mark and Thoppey Srinivasan Balamuralikrishna, Praveen and Krembs, Luke and Khoury, Brandon and Reddy, Arthi and Mukherjee, Pritam and Rofsky, Neil M and Summers, Ronald M},
+  journal={arXiv e-prints},
+  pages={arXiv--2503},
+  year={2025}
+}
+```
+```bib
+@article{ji2022amos,
+  title={Amos: A large-scale abdominal multi-organ benchmark for versatile medical image segmentation},
+  author={Ji, Yuanfeng and Bai, Haotian and Ge, Chongjian and Yang, Jie and Zhu, Ye and Zhang, Ruimao and Li, Zhen and Zhanng, Lingyan and Ma, Wanling and Wan, Xiang and others},
+  journal={Advances in neural information processing systems},
+  volume={35},
+  pages={36722--36732},
+  year={2022}
+}
+```
