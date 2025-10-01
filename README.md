@@ -88,6 +88,8 @@ If you use the code or the annotation data from this repository, or if you find 
   year={2025}
 }
 ```
+
+If you use the annotations from this repository, please cite the AMOS paper:
 ```bib
 @article{ji2022amos,
   title={Amos: A large-scale abdominal multi-organ benchmark for versatile medical image segmentation},
