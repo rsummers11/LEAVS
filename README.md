@@ -93,7 +93,7 @@ isbn="978-3-032-04971-1"
 
 ```
 
-If you use the annotations from this repository, please cite the AMOS paper:
+If you use the annotations from this repository, please cite the amos paper:
 ```bib
 @article{ji2022amos,
   title={Amos: A large-scale abdominal multi-organ benchmark for versatile medical image segmentation},
