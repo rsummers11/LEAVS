@@ -78,7 +78,7 @@ Cite the [LEAVS: An LLM-based Labeler for Abdominal CT Supervision](https://arxi
 -->
 
 
-If you use the code or the annotation data from this repository, or if you find our work is useful for your research, please cite the following:
+If you use the code or the annotation data from this repository, or if you find our work is useful for your research, please cite:
 ```bib
 @InProceedings{bigolin2025leavs,
 author="Bigolin Lanfredi, Ricardo and Zhuang, Yan and Finkelstein, Mark and Thoppey Srinivasan Balamuralikrishna, Praveen and Krembs, Luke and Khoury, Brandon and Reddy, Arthi and Mukherjee, Pritam and Rofsky, Neil M. and Summers, Ronald M.",
