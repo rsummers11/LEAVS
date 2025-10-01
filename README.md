@@ -6,7 +6,7 @@ This repository contains code and data for the [LEAVS: An LLM-based Labeler for 
 
 **LEAVS: An LLM-Based Labeler for Abdominal CT Supervision**  
 
-[Ricardo Bigolin Lanfredi](https://github.com/ricbl)<sup>1</sup>, [Yan Zhuang](https://yanzhuang.me/)<sup>2,3</sup>, Mark Finkelstein<sup>2</sup>, Praveen Thoppey Srinivasan Balamuralikrishna<sup>1</sup>, Luke Krembs<sup>4</sup>, Brandon Khoury<sup>4</sup>, Arthi Reddy<sup>2</sup>, Pritam Mukherjee<sup>1</sup>, Neil M. Rofsky <sup>2</sup>, and Ronald M. Summers <sup>1</sup>
+[Ricardo Bigolin Lanfredi](https://github.com/ricbl)<sup>1</sup>, [Yan Zhuang](https://yanzhuang.me/)<sup>2,3</sup>, Mark Finkelstein<sup>2</sup>, Praveen Thoppey Srinivasan Balamuralikrishna<sup>1</sup>, Luke Krembs<sup>4</sup>, Brandon Khoury<sup>4</sup>, Arthi Reddy<sup>2</sup>, Pritam Mukherjee<sup>1</sup>, Neil M. Rofsky<sup>2</sup>, and Ronald M. Summers<sup>1</sup>
 
 <sup>1</sup> Department of Radiology and Imaging Sciences, Imaging Biomarkers and Computer Aided Diagnosis Laboratory, National Institutes of Health Clinical Center, Bethesda, MD, USA  
 <sup>2</sup> Department of Diagnostic, Molecular, and Interventional Radiology, Icahn School of Medicine at Mount Sinai, New York, NY, USA   
