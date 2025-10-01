@@ -13,7 +13,7 @@ This repository contains code and data for the [LEAVS: An LLM-based Labeler for 
 <sup>3</sup> Windreich Department of Artificial Intelligence and Human Health, Icahn School of Medicine at Mount Sinai, New York, NY, USA  
 <sup>4</sup> Department of Radiology, Walter Reed National Military Medical Center, Bethesda, MD, USA    
 
-[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_30)] [[Arxiv](https://arxiv.org/abs/2503.13330)] [[BibTex](https://scholar.googleusercontent.com/scholar.bib?q=info:F3Y_6rCAAqsJ:scholar.google.com/&output=citation&scisdr=CgIM1NxrEMb0hh1H3po:AAZF9b8AAAAAaN1Bxpr5ZzvmgaRnDmb0eqB0vk8&scisig=AAZF9b8AAAAAaN1BxviFyiUvKo2e3_9YvEQ-kek&scisf=4&ct=citation&cd=-1&hl=en)] [DOI:10.1007/978-3-032-04971-1_30]  
+[[Paper](https://link.springer.com/chapter/10.1007/978-3-032-04971-1_30)] [[Arxiv](https://arxiv.org/abs/2503.13330)] [DOI:10.1007/978-3-032-04971-1_30]  
 
 ## Using the LEAVS labeler
 
